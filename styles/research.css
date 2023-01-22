@@ -1,0 +1,46 @@
+h1 {
+    text-align: center;
+    font-style: initial;
+}
+
+h2 {
+    font-style: initial;
+}
+
+.closing-text {
+    font-size: 10px;
+    font-style: oblique;
+    margin-top: 150px;
+    font-weight: bold;
+    text-align: center;
+
+}
+
+/* .yellow-text {
+    color:yellow ;
+    border: black;
+}
+
+.orange-text {
+    color: orange;
+    border: black;
+}
+
+.blue-text {
+    color: lightblue;
+}
+
+.white-text {
+    color: white;
+} */
+
+Body {
+    background-color: whitesmoke;
+    font-size: 21px;
+    font-style: italic;
+}
+
+.home-link {
+    margin-top: 200px;
+    margin-bottom: -160px;
+}

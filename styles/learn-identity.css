@@ -1,0 +1,19 @@
+h1 {
+    text-align: center;
+    font-size: 45px;
+}
+body {
+    font-family: 'Open Sans', sans-serif;
+    background-color: whitesmoke;
+}
+.home-link {
+    margin-top: 200px;
+    margin-bottom: -160px;
+}
+.closing-text {
+    font-size: 10px;
+    font-style: oblique;
+    margin-top: 150px;
+    font-weight: bold;
+    text-align: center;    
+}
