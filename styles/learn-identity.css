@@ -6,6 +6,11 @@ body {
     font-family: 'Open Sans', sans-serif;
     background-color: whitesmoke;
 }
+@media screen and (min-width: 480px) {
+    body {
+      background-color: whitesmoke;
+    }
+}
 .home-link {
     margin-top: 200px;
     margin-bottom: -160px;
