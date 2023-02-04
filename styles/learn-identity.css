@@ -3,10 +3,16 @@ h1 {
     font-size: 45px;
     margin-bottom: 150px;
 }
+h2 {
+    font-size: 25Spx;
+}
 h3 {
     text-align: center;
     font-size: 35px;
     margin-bottom: 100px;
+}
+h4 {
+    font-size: 20px;
 }
 body {
     font-family: 'Open Sans', sans-serif;
@@ -20,6 +26,9 @@ body {
 .home-link {
     margin-top: 200px;
     margin-bottom: -160px;
+    /* position: absolute;
+    bottom: 0;
+    width: 100%; */
 }
 .closing-text {
     font-size: 10px;
