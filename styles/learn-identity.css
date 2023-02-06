@@ -42,7 +42,10 @@ body {
     padding: 20px;
 }
 .blueText {
-    color: rgb(31, 166, 190);
+    color: rgb(58, 207, 233);
+}
+.purpleText {
+    color: rgb(223, 140, 244);
 }
 .spacer {
     padding-top: 90px;
@@ -61,7 +64,7 @@ body {
 
 .container {
     display: flex;
-    border: 3px solid green;
+    border: 3px solid rgb(162, 255, 207);
     width: 20px;
     height: 20px;
 }
