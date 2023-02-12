@@ -55,6 +55,21 @@ body {
       padding-left: 18px;
     }
 }
+@media screen and (max-width: 768px) {
+    .reducePadding {
+      padding-left: 29px;
+    }
+}
+@media screen and (max-width: 768px) {
+    .reduceWidth {
+      width: 80%;
+    }
+}
+@media screen and (max-width: 400px) {
+    .reduceWidth {
+      width: 60%;
+    }
+}
 .center {
     margin: auto;
     width: 93%;
